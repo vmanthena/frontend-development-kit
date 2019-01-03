@@ -1,5 +1,5 @@
 # Frontend development kit
-development kit for front end devolopers. The pack addes feauters for Angular, React and Vue.js
+development kit for front end devolopers. The pack addes feauters for Angular, React and Vue.js development.
 
 ## Extensions Included in this pack
 * [Angular Material 2, Flex layout 1, Covalent 1 & Material icon snippets](https://marketplace.visualstudio.com/items?itemName=1tontech.angular-material) - Providers snippets Angular Material 2, Angular Flex layout 1, Teradata Covalent 1 & Material icons
