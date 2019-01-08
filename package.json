@@ -2,7 +2,7 @@
   "name": "frontend-development-kit",
   "displayName": "Frontend development kit",
   "description": "development kit for front end developers",
-  "publisher": "nvmanthe",
+  "publisher": "vmanthena",
   "identifier": "nvmanthe.frontend-development-kit", 
   "version": "0.0.2",
   "engines": {
