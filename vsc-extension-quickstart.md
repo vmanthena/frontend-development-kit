@@ -6,7 +6,6 @@ development kit for front end devolopers. The pack addes feauters for Angular, R
 * [Rainbow Brackets](https://marketplace.visualstudio.com/items?itemName=2gua.rainbow-brackets) - A rainbow brackets extension for VS Code.
 * [HTML Snippets](https://marketplace.visualstudio.com/items?itemName=abusaidm.html-snippets) - Full HTML tags including HTML5 Snippets
 * [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks) - Mark lines and jump to them
-* [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks) - Mark lines and jump to them
 * [Project Manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager) - Easily switch between projects
 * [sort-imports](https://marketplace.visualstudio.com/items?itemName=amatiasq.sort-imports) - Sort ES6 imports automatically.
 * [Angular Language Service](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template) - Editor services for Angular templates
@@ -23,8 +22,6 @@ development kit for front end devolopers. The pack addes feauters for Angular, R
 * [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Integrates ESLint JavaScript into VS Code.
 * [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory) - View git log, file history, compare branches or commits
 * [Babel ES6/ES7](https://marketplace.visualstudio.com/items?itemName=dzannotti.vscode-babel-coloring) - Adds JS Babel es6/es7 syntax coloring
-* [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - Supercharge the Git capabilities built into Visual Studio Code — Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more
-* [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - Supercharge the Git capabilities built into Visual Studio Code — Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more
 * [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - Supercharge the Git capabilities built into Visual Studio Code — Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more
 * [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) - EditorConfig Support for Visual Studio Code
 * [TSLint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint) - TSLint for Visual Studio Code
@@ -60,7 +57,6 @@ development kit for front end devolopers. The pack addes feauters for Angular, R
 * [Auto Import - ES6, TS, JSX, TSX](https://marketplace.visualstudio.com/items?itemName=NuclleaR.vscode-extension-auto-import) - Automatically finds, parses and provides code actions and code completion for all available imports. Works with JavaScript and TypeScript. [Forked]
 * [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur) - Vue tooling for VS Code
 * [Docker](https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker) - Adds syntax highlighting, commands, hover tips, and linting for Dockerfile and docker-compose files.
-* [Docker](https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker) - Adds syntax highlighting, commands, hover tips, and linting for Dockerfile and docker-compose files.
 * [Version Lens](https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens) - Shows the latest version for each package using code lens
 * [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) - Material Design Icons for Visual Studio Code
 * [TypeScript Importer](https://marketplace.visualstudio.com/items?itemName=pmneo.tsimporter) - Automatically searches for TypeScript definitions in workspace files and provides all known symbols as completion item to allow code completion.
@@ -84,26 +80,14 @@ development kit for front end devolopers. The pack addes feauters for Angular, R
 * [jumpy](https://marketplace.visualstudio.com/items?itemName=wmaurer.vscode-jumpy) - Jumpy provides fast cursor movement, inspired by Atom's package of the same name.
 * [JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets) - Code snippets for JavaScript in ES6 syntax
 * [Reactjs code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.ReactSnippets) - Code snippets for Reactjs development in ES6 syntax
-* [%ext.displayName%](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) - %ext.description%
+* [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) - All you need for Markdown (keyboard shortcuts, table of contents, auto preview and more).
 * [IntelliSense for CSS class names in HTML](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion) - CSS class name completion for the HTML class attribute based on the definitions found in your workspace.
 * [Open in GitHub, Bitbucket, Gitlab, VisualStudio.com !](https://marketplace.visualstudio.com/items?itemName=ziyasal.vscode-open-in-github) - Jump to a source code line in Github, Bitbucket, Gitlab, VisualStudio.com !
 * [ESLint](https://marketplace.visualstudio.com/items?itemName=.client) - Integrates ESLint into VS Code.
 * [VS Live Share extension API](https://marketplace.visualstudio.com/items?itemName=ms-vsliveshare.vsls) - Enables VS Code extensions to access Live Share capabilities.
-* [VS Live Share extension API](https://marketplace.visualstudio.com/items?itemName=ms-vsliveshare.vsls) - Enables VS Code extensions to access Live Share capabilities.
-* [vscode-chrome-debug-core](https://marketplace.visualstudio.com/items?itemName=.vscode-chrome-debug-core) - A library for building VS Code debug adapters for targets that support the Chrome Remote Debug Protocol
 * [vscode-chrome-debug-core](https://marketplace.visualstudio.com/items?itemName=.vscode-chrome-debug-core) - A library for building VS Code debug adapters for targets that support the Chrome Remote Debug Protocol
 * [Auto Import](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport) - automatically finds, parses and provides code actions for all available imports. Only currently works with files in your folder and TypeScript.
-
-## License 
-The MIT License (MIT)
-
-Copyright (c) 2015-2018 David Anson
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+* [Gitignore Templates](https://marketplace.visualstudio.com/items?itemName=hasanali.gitignore-templates) - Quickly generate .gitignore file using templates from https://github.com/github/gitignore. 
 
 ## Credits
 All credits goes to original authors of the above mentioned extensions.
