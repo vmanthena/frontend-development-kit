@@ -14,6 +14,7 @@ development kit for front end devolopers. The pack addes feauters for Angular, R
 * [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) - Visual Studio Code plugin that autocompletes filenames
 * [Regex Previewer](https://marketplace.visualstudio.com/items?itemName=chrmarti.regex) - Regex matches previewer for JavaScript, TypeScript, PHP and Haxe in Visual Studio Code.
 * [gitignore](https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore) - Language support for .gitignore files. Lets you pull .gitignore files from the https://github.com/github/gitignore repository.
+* [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer) - A customizable extension for colorizing matching brackets
 * [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2) - A customizable extension for colorizing matching brackets
 * [SVG Viewer](https://marketplace.visualstudio.com/items?itemName=cssho.vscode-svgviewer) - SVG Viewer for Visual Studio Code.
 * [Angular Schematics](https://marketplace.visualstudio.com/items?itemName=cyrilletuzi.angular-schematics) - Angular schematics (CLI commands) from files Explorer or Command Palette.
@@ -79,12 +80,14 @@ development kit for front end devolopers. The pack addes feauters for Angular, R
 * [jumpy](https://marketplace.visualstudio.com/items?itemName=wmaurer.vscode-jumpy) - Jumpy provides fast cursor movement, inspired by Atom's package of the same name.
 * [JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets) - Code snippets for JavaScript in ES6 syntax
 * [Reactjs code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.ReactSnippets) - Code snippets for Reactjs development in ES6 syntax
+* [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) - All you need for Markdown (keyboard shortcuts, table of contents, auto preview and more).
 * [IntelliSense for CSS class names in HTML](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion) - CSS class name completion for the HTML class attribute based on the definitions found in your workspace.
 * [Open in GitHub, Bitbucket, Gitlab, VisualStudio.com !](https://marketplace.visualstudio.com/items?itemName=ziyasal.vscode-open-in-github) - Jump to a source code line in Github, Bitbucket, Gitlab, VisualStudio.com !
 * [ESLint](https://marketplace.visualstudio.com/items?itemName=.client) - Integrates ESLint into VS Code.
 * [VS Live Share extension API](https://marketplace.visualstudio.com/items?itemName=ms-vsliveshare.vsls) - Enables VS Code extensions to access Live Share capabilities.
 * [vscode-chrome-debug-core](https://marketplace.visualstudio.com/items?itemName=.vscode-chrome-debug-core) - A library for building VS Code debug adapters for targets that support the Chrome Remote Debug Protocol
 * [Auto Import](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport) - automatically finds, parses and provides code actions for all available imports. Only currently works with files in your folder and TypeScript.
+* [Gitignore Templates](https://marketplace.visualstudio.com/items?itemName=hasanali.gitignore-templates) - Quickly generate .gitignore file using templates from https://github.com/github/gitignore. 
 
 ## Credits
 All credits goes to original authors of the above mentioned extensions.
